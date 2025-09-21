@@ -67,3 +67,15 @@ Example screenshot:
 ```bash
 git clone "github url"
 cd user-management-dashboard
+```
+2. Install dependencies:
+
+```bash
+npm install
+```
+3. Run The Project:
+
+```bash
+npm run dev
+```
+
