@@ -1,5 +1,4 @@
-# Ajackus-tech
-## User Management Dashboard
+# User Management Dashboard
 
 A modern, responsive **User Management Dashboard** built with **React** and **TailwindCSS**, featuring CRUD operations, filtering, pagination, and toast notifications. The dashboard uses **JSONPlaceholder** as a mock backend API for demonstration purposes.
 
@@ -24,7 +23,7 @@ A modern, responsive **User Management Dashboard** built with **React** and **Ta
 >[Live Url](https://melodic-faun-a72fb1.netlify.app/)
 
 Example screenshot:  
-![Dashboard Screenshot](./user-management-dashboard/assets/Screenshot%202025-09-21%20224044.png)  
+![Dashboard Screenshot](./assets/Screenshot%202025-09-21%20224044.png)  
 
 ---
 
